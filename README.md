@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/562041975797317643/754149879944839250/up_1080.png?width=676&height=676">
+  <img src="https://media.discordapp.net/attachments/562041975797317643/754149879944839250/up_1080.png?width=256&height=256">
   <h3 align="center">interestUpper</h3>
 
   <p align="center">
@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://i.gyazo.com/5bf403244adec2ebb73c65b13940efeb.png">
+<img src="https://media.discordapp.net/attachments/562041975797317643/754150540094734356/iu_preview1.png?width=960&height=600">
 
 This is my take on an anonymous chat platform based on websockets. This was inspired by a tutorial by Pretty Printed, but utilized my own HTML, JS, and CSS.
 
@@ -49,10 +49,7 @@ Here's why:
 * Extremely simple to join a room and start talking
 
 ### Built With
-* [Bootstrap](https://getbootstrap.com)
-* [Node](https://nodejs.org)
-* [Express](https://expressjs.com)
-* [SocketIO](https://socket.io)
+* [JavaScript](https://www.javascript.com/)
 
 
 <!-- GETTING STARTED -->
