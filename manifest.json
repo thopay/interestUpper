@@ -1,0 +1,24 @@
+{
+    "name": "interestUpper",
+    "description": "Get that college interest up.",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "icons": {
+        "16":"up_16.png",
+        "48":"up_48.png",
+        "128":"up_128.png"
+    },
+    "permissions": [
+        "tabs",
+        "https://mail.google.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["https://mail.google.com/*"],
+            "js": ["main.js"]
+        }
+    ],
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
