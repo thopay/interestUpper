@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/562041975797317643/754151315277611050/img.png?width=256&height=256">
+  <img src="https://media.discordapp.net/attachments/562041975797317643/754175760037576714/upShadow.png?width=256&height=256">
   <h3 align="center">interestUpper</h3>
 
   <p align="center">
