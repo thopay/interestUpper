@@ -43,10 +43,9 @@
 
 I came to a realization that I was eventually clicking all of the links in the college emails I was receiving. So I figured it just made sense to try and automate the process.
 
-Here's why:
-* No logs of chat or who's who
-* After every refresh a new name is assigned, so it's designed to be anonymous
-* Extremely simple to join a room and start talking
+Current Functions
+* Scan a single email and open the links
+* Scan your visible inbox, filter by keywords (University, College, Admission), fetch the contents of the email then treat it essentially as scanning a single email. After fetching the list of emails, it only scans and opens links from one at a time.
 
 ### Built With
 * [JavaScript](https://www.javascript.com/)
