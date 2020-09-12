@@ -41,7 +41,7 @@
 
 <img src="https://media.discordapp.net/attachments/562041975797317643/754150540094734356/iu_preview1.png?width=960&height=600">
 
-This is my take on an anonymous chat platform based on websockets. This was inspired by a tutorial by Pretty Printed, but utilized my own HTML, JS, and CSS.
+I came to a realization that I was eventually clicking all of the links in the college emails I was receiving. So I figured it just made sense to try and automate the process.
 
 Here's why:
 * No logs of chat or who's who
@@ -79,7 +79,7 @@ To scan a single email, simply open the email in Gmail, open the extension, then
 
 <img src="https://media.discordapp.net/attachments/562041975797317643/754148194094547014/preview1.gif">
 
-To scan your visible inbox, you need to switch to HTML view on Gmail, which is easily done by following the instruction on the browser. After that, the extension will scan emails looking for keywords related to admissions, then open links from each email.
+To scan your visible inbox, you need to switch to HTML view on Gmail, which is easily done by following the instruction on the extension. After that, the extension will scan emails looking for keywords related to admissions, then open links from each email.
 
 <!-- ROADMAP -->
 ## Roadmap
