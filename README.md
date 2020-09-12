@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/562041975797317643/754149879944839250/up_1080.png?width=256&height=256">
+  <img src="https://media.discordapp.net/attachments/562041975797317643/754151315277611050/img.png?width=256&height=256">
   <h3 align="center">interestUpper</h3>
 
   <p align="center">
@@ -59,10 +59,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* npm
-```sh
-npm install npm@latest -g
-```
+* None
 
 ### Installation
 
