@@ -81,8 +81,6 @@ To scan a single email, simply open the email in Gmail, open the extension, then
 
 To scan your visible inbox, you need to switch to HTML view on Gmail, which is easily done by following the instruction on the browser. After that, the extension will scan emails looking for keywords related to admissions, then open links from each email.
 
-<img src="https://media.discordapp.net/attachments/562041975797317643/754148270938521600/preview2.gif">
-
 <!-- ROADMAP -->
 ## Roadmap
 
