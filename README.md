@@ -10,7 +10,7 @@
     <a href="https://github.com/th-ms/interestUpper"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">Demo Pending Review</a>
+    <a href="https://chrome.google.com/webstore/detail/interestupper/ppcendomjiamipgbdhdalloibclamfkn">Demo </a>
     ·
     <a href="https://github.com/th-ms/interestUpper">Report Bug</a>
     ·
