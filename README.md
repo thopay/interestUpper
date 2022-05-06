@@ -7,14 +7,14 @@
   <p align="center">
     With interestUpper, anyone can easily gain the attention of colleges by automatically opening, waiting, and closing college email tracking links.
     <br />
-    <a href="https://github.com/th-ms/interestUpper"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thopay/interestUpper"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://chrome.google.com/webstore/detail/interestupper/ppcendomjiamipgbdhdalloibclamfkn">Demo </a>
     ·
-    <a href="https://github.com/th-ms/interestUpper">Report Bug</a>
+    <a href="https://github.com/thopay/interestUpper">Report Bug</a>
     ·
-    <a href="https://github.com/th-ms/interestUpper">Request Feature</a>
+    <a href="https://github.com/thopay/interestUpper">Request Feature</a>
   </p>
 </p>
 
@@ -64,7 +64,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/th-ms/interestUpper.git
+git clone https://github.com/thopay/interestUpper.git
 ```
 2. Enable Developer Mode in chrome://extensions/
 3. Drag and drop the interestUpper folder onto the webpage
@@ -83,7 +83,7 @@ To scan your visible inbox, you need to switch to HTML view on Gmail, which is e
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/th-ms/interestUpper/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thopay/interestUpper/issues) for a list of proposed features (and known issues).
 
 
 
@@ -112,4 +112,4 @@ Distributed under the MIT License.
 
 Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
-Project Link: [https://github.com/th-ms/interestUpper](https://github.com/th-ms/interestUpper)
+Project Link: [https://github.com/thopay/interestUpper](https://github.com/thopay/interestUpper)
